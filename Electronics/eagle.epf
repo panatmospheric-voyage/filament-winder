@@ -1,0 +1,25 @@
+[Eagle]
+Version="09 02 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="Z:/Eagle Libraries/connectors.lbr"
+UsedLibrary="Z:/Eagle Libraries/control.lbr"
+UsedLibrary="Z:/Eagle Libraries/passives.lbr"
+UsedLibrary="Z:/Eagle Libraries/power.lbr"
+UsedLibrary="Z:/Eagle Libraries/sensors.lbr"
+UsedLibrary="Z:/Eagle Libraries/supply.lbr"
+UsedLibrary="Z:/Eagle Libraries/switches.lbr"
+UsedLibrary="Z:/Eagle Libraries/timing.lbr"
+UsedLibrary="Z:/Eagle Libraries/transistors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"

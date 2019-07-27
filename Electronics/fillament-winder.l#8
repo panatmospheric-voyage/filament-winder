@@ -1198,47 +1198,47 @@
 <text x="-15.24" y="7.62" size="1.27" layer="95">&gt;Name</text>
 </symbol>
 <symbol name="FPGA">
-<pin name="CFG1" x="25.4" y="5.08" length="middle" rot="R180"/>
-<pin name="DONE" x="25.4" y="2.54" length="middle" rot="R180"/>
-<pin name="PROGRAMN" x="25.4" y="0" length="middle" rot="R180"/>
-<pin name="CCLK" x="25.4" y="-2.54" length="middle" rot="R180"/>
-<pin name="GND" x="-17.78" y="-30.48" length="middle" rot="R90"/>
-<pin name="GNDIO7" x="-10.16" y="-30.48" length="middle" rot="R90"/>
+<pin name="CFG1" x="22.86" y="5.08" length="middle" rot="R180"/>
+<pin name="DONE" x="22.86" y="2.54" length="middle" rot="R180"/>
+<pin name="PROGRAMN" x="22.86" y="0" length="middle" rot="R180"/>
+<pin name="CCLK" x="22.86" y="-2.54" length="middle" rot="R180"/>
+<pin name="GND" x="-17.78" y="-27.94" length="middle" rot="R90"/>
+<pin name="GNDIO7" x="-10.16" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO7" x="-2.54" y="22.86" length="middle" rot="R270"/>
 <pin name="VCC" x="-12.7" y="22.86" length="middle" rot="R270"/>
 <pin name="VCCP0" x="-5.08" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDP0" x="-12.7" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDP0" x="-12.7" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO6" x="0" y="22.86" length="middle" rot="R270"/>
-<pin name="NC" x="10.16" y="-30.48" length="middle" direction="nc" rot="R90"/>
-<pin name="GNDIO6" x="-7.62" y="-30.48" length="middle" rot="R90"/>
-<pin name="PL18B" x="25.4" y="-5.08" length="middle" rot="R180"/>
+<pin name="NC" x="10.16" y="-27.94" length="middle" direction="nc" rot="R90"/>
+<pin name="GNDIO6" x="-7.62" y="-27.94" length="middle" rot="R90"/>
+<pin name="PL18B" x="22.86" y="-5.08" length="middle" rot="R180"/>
 <pin name="VCCAUX" x="-10.16" y="22.86" length="middle" rot="R270"/>
-<pin name="SLEEPN/TOE" x="25.4" y="-7.62" length="middle" rot="R180"/>
-<pin name="GNDIO5" x="-5.08" y="-30.48" length="middle" rot="R90"/>
+<pin name="SLEEPN/TOE" x="22.86" y="-7.62" length="middle" rot="R180"/>
+<pin name="GNDIO5" x="-5.08" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO5" x="2.54" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDIO4" x="-2.54" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDIO4" x="-2.54" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO4" x="5.08" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDIO3" x="0" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDIO3" x="0" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO3" x="7.62" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDP1" x="-15.24" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDP1" x="-15.24" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCP1" x="-7.62" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDIO2" x="2.54" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDIO2" x="2.54" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO2" x="10.16" y="22.86" length="middle" rot="R270"/>
-<pin name="TDO" x="25.4" y="-10.16" length="middle" rot="R180"/>
+<pin name="TDO" x="22.86" y="-10.16" length="middle" rot="R180"/>
 <pin name="VCCJ" x="17.78" y="22.86" length="middle" rot="R270"/>
-<pin name="TDI" x="25.4" y="-12.7" length="middle" rot="R180"/>
-<pin name="TMS" x="25.4" y="-15.24" length="middle" rot="R180"/>
-<pin name="TCK" x="25.4" y="-17.78" length="middle" rot="R180"/>
-<pin name="GNDIO1" x="5.08" y="-30.48" length="middle" rot="R90"/>
+<pin name="TDI" x="22.86" y="-12.7" length="middle" rot="R180"/>
+<pin name="TMS" x="22.86" y="-15.24" length="middle" rot="R180"/>
+<pin name="TCK" x="22.86" y="-17.78" length="middle" rot="R180"/>
+<pin name="GNDIO1" x="5.08" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO1" x="12.7" y="22.86" length="middle" rot="R270"/>
-<pin name="GNDIO0" x="7.62" y="-30.48" length="middle" rot="R90"/>
+<pin name="GNDIO0" x="7.62" y="-27.94" length="middle" rot="R90"/>
 <pin name="VCCIO0" x="15.24" y="22.86" length="middle" rot="R270"/>
-<wire x1="-20.32" y1="17.78" x2="20.32" y2="17.78" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="17.78" x2="17.78" y2="17.78" width="0.254" layer="94"/>
+<wire x1="17.78" y1="17.78" x2="17.78" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="17.78" y1="-22.86" x2="-17.78" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="-20.32" y1="-22.86" x2="-17.78" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="-22.86" x2="-17.78" y2="17.78" width="0.254" layer="94"/>
 <text x="-15.24" y="-2.54" size="1.27" layer="95">&gt;Name</text>
-<pin name="INITN" x="25.4" y="-20.32" length="middle" rot="R180"/>
-<wire x1="20.32" y1="17.78" x2="20.32" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="20.32" y1="-25.4" x2="-20.32" y2="-25.4" width="0.254" layer="94"/>
-<wire x1="-20.32" y1="-25.4" x2="-20.32" y2="17.78" width="0.254" layer="94"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -1454,211 +1454,6 @@
 </gates>
 <devices>
 <device name="" package="FBGA256">
-<connects>
-<connect gate="G$1" pin="PB10A" pad="T5"/>
-<connect gate="G$1" pin="PB10B" pad="P6"/>
-<connect gate="G$1" pin="PB11A" pad="T6"/>
-<connect gate="G$1" pin="PB11B" pad="R6"/>
-<connect gate="G$1" pin="PB12A" pad="P7"/>
-<connect gate="G$1" pin="PB13B" pad="N8"/>
-<connect gate="G$1" pin="PB14A" pad="R7"/>
-<connect gate="G$1" pin="PB14B" pad="T7"/>
-<connect gate="G$1" pin="PB15A" pad="P8"/>
-<connect gate="G$1" pin="PB15B" pad="T8"/>
-<connect gate="G$1" pin="PB16A" pad="R8"/>
-<connect gate="G$1" pin="PB16B" pad="T9"/>
-<connect gate="G$1" pin="PB17A" pad="R9"/>
-<connect gate="G$1" pin="PB17B" pad="P9"/>
-<connect gate="G$1" pin="PB18A" pad="T10"/>
-<connect gate="G$1" pin="PB18B" pad="T11"/>
-<connect gate="G$1" pin="PB19A" pad="R10"/>
-<connect gate="G$1" pin="PB19B" pad="P10"/>
-<connect gate="G$1" pin="PB20A" pad="N9"/>
-<connect gate="G$1" pin="PB21B" pad="M9"/>
-<connect gate="G$1" pin="PB22A" pad="R12"/>
-<connect gate="G$1" pin="PB22B" pad="T12"/>
-<connect gate="G$1" pin="PB23A" pad="P13"/>
-<connect gate="G$1" pin="PB23B" pad="R13"/>
-<connect gate="G$1" pin="PB24A" pad="M11"/>
-<connect gate="G$1" pin="PB24B" pad="N11"/>
-<connect gate="G$1" pin="PB25A" pad="N10"/>
-<connect gate="G$1" pin="PB25B" pad="M10"/>
-<connect gate="G$1" pin="PB26A" pad="T13"/>
-<connect gate="G$1" pin="PB26B" pad="P14"/>
-<connect gate="G$1" pin="PB27B" pad="P12"/>
-<connect gate="G$1" pin="PB28A" pad="T14"/>
-<connect gate="G$1" pin="PB29B" pad="R14"/>
-<connect gate="G$1" pin="PB2A" pad="R4"/>
-<connect gate="G$1" pin="PB2B" pad="N5"/>
-<connect gate="G$1" pin="PB30A" pad="P11"/>
-<connect gate="G$1" pin="PB30B" pad="N12"/>
-<connect gate="G$1" pin="PB31A" pad="T15"/>
-<connect gate="G$1" pin="PB31B" pad="R15"/>
-<connect gate="G$1" pin="PB3A" pad="M7"/>
-<connect gate="G$1" pin="PB3B" pad="R1"/>
-<connect gate="G$1" pin="PB4A" pad="N6"/>
-<connect gate="G$1" pin="PB5B" pad="P5"/>
-<connect gate="G$1" pin="PB6A" pad="R2"/>
-<connect gate="G$1" pin="PB6B" pad="T2"/>
-<connect gate="G$1" pin="PB7A" pad="R3"/>
-<connect gate="G$1" pin="PB7B" pad="T3"/>
-<connect gate="G$1" pin="PB8A" pad="T4"/>
-<connect gate="G$1" pin="PB8B" pad="R5"/>
-<connect gate="G$1" pin="PB9A" pad="N7"/>
-<connect gate="G$1" pin="PB9B" pad="M8"/>
-<connect gate="G$2" pin="PL11A" pad="J1"/>
-<connect gate="G$2" pin="PL11B" pad="J2"/>
-<connect gate="G$2" pin="PL12A" pad="E3"/>
-<connect gate="G$2" pin="PL12B" pad="F4"/>
-<connect gate="G$2" pin="PL13A" pad="H3"/>
-<connect gate="G$2" pin="PL13B" pad="J3"/>
-<connect gate="G$2" pin="PL14A" pad="G5"/>
-<connect gate="G$2" pin="PL15B" pad="J4"/>
-<connect gate="G$2" pin="PL16A" pad="L1"/>
-<connect gate="G$2" pin="PL16B" pad="L2"/>
-<connect gate="G$2" pin="PL17A" pad="K1"/>
-<connect gate="G$2" pin="PL17B" pad="K2"/>
-<connect gate="G$2" pin="PL18A" pad="M1"/>
-<connect gate="G$2" pin="PL18B" pad="M2"/>
-<connect gate="G$2" pin="PL19A" pad="K3"/>
-<connect gate="G$2" pin="PL19B" pad="L3"/>
-<connect gate="G$2" pin="PL20A" pad="K4"/>
-<connect gate="G$2" pin="PL20B" pad="K5"/>
-<connect gate="G$2" pin="PL21A" pad="L4"/>
-<connect gate="G$2" pin="PL21B" pad="N2"/>
-<connect gate="G$2" pin="PL22A" pad="J5"/>
-<connect gate="G$2" pin="PL23B" pad="N1"/>
-<connect gate="G$2" pin="PL24A" pad="P1"/>
-<connect gate="G$2" pin="PL24B" pad="P2"/>
-<connect gate="G$2" pin="PL25A" pad="L5"/>
-<connect gate="G$2" pin="PL25B" pad="M6"/>
-<connect gate="G$2" pin="PL26A" pad="M3"/>
-<connect gate="G$2" pin="PL26B" pad="N3"/>
-<connect gate="G$2" pin="PL2A" pad="D1"/>
-<connect gate="G$2" pin="PL2B" pad="G1"/>
-<connect gate="G$2" pin="PL3A" pad="D2"/>
-<connect gate="G$2" pin="PL3B" pad="D3"/>
-<connect gate="G$2" pin="PL4A" pad="F3"/>
-<connect gate="G$2" pin="PL4B" pad="F2"/>
-<connect gate="G$2" pin="PL5A" pad="E2"/>
-<connect gate="G$2" pin="PL6B" pad="G4"/>
-<connect gate="G$2" pin="PL7A" pad="E1"/>
-<connect gate="G$2" pin="PL7B" pad="F1"/>
-<connect gate="G$2" pin="PL8A" pad="G3"/>
-<connect gate="G$2" pin="PL8B" pad="G2"/>
-<connect gate="G$2" pin="PL9A" pad="H1"/>
-<connect gate="G$2" pin="PL9B" pad="H2"/>
-<connect gate="G$3" pin="PR11A" pad="G14"/>
-<connect gate="G$3" pin="PR11B" pad="G15"/>
-<connect gate="G$3" pin="PR12A" pad="H16"/>
-<connect gate="G$3" pin="PR12B" pad="J16"/>
-<connect gate="G$3" pin="PR13A" pad="H12"/>
-<connect gate="G$3" pin="PR13B" pad="H13"/>
-<connect gate="G$3" pin="PR14A" pad="F15"/>
-<connect gate="G$3" pin="PR15B" pad="M15"/>
-<connect gate="G$3" pin="PR16A" pad="J14"/>
-<connect gate="G$3" pin="PR16B" pad="J15"/>
-<connect gate="G$3" pin="PR17A" pad="K12"/>
-<connect gate="G$3" pin="PR17B" pad="L12"/>
-<connect gate="G$3" pin="PR18A" pad="K16"/>
-<connect gate="G$3" pin="PR18B" pad="L16"/>
-<connect gate="G$3" pin="PR19A" pad="K15"/>
-<connect gate="G$3" pin="PR19B" pad="K14"/>
-<connect gate="G$3" pin="PR20A" pad="N16"/>
-<connect gate="G$3" pin="PR20B" pad="M16"/>
-<connect gate="G$3" pin="PR21A" pad="L14"/>
-<connect gate="G$3" pin="PR21B" pad="L15"/>
-<connect gate="G$3" pin="PR22A" pad="K13"/>
-<connect gate="G$3" pin="PR23B" pad="N14"/>
-<connect gate="G$3" pin="PR24A" pad="R16"/>
-<connect gate="G$3" pin="PR24B" pad="P16"/>
-<connect gate="G$3" pin="PR25A" pad="L13"/>
-<connect gate="G$3" pin="PR25B" pad="M14"/>
-<connect gate="G$3" pin="PR26A" pad="N15"/>
-<connect gate="G$3" pin="PR26B" pad="P15"/>
-<connect gate="G$3" pin="PR2A" pad="G13"/>
-<connect gate="G$3" pin="PR2B" pad="H15"/>
-<connect gate="G$3" pin="PR3A" pad="C15"/>
-<connect gate="G$3" pin="PR3B" pad="D15"/>
-<connect gate="G$3" pin="PR4A" pad="E14"/>
-<connect gate="G$3" pin="PR4B" pad="F14"/>
-<connect gate="G$3" pin="PR5A" pad="E15"/>
-<connect gate="G$3" pin="PR6B" pad="H14"/>
-<connect gate="G$3" pin="PR7A" pad="C16"/>
-<connect gate="G$3" pin="PR7B" pad="B16"/>
-<connect gate="G$3" pin="PR8A" pad="F16"/>
-<connect gate="G$3" pin="PR8B" pad="G16"/>
-<connect gate="G$3" pin="PR9A" pad="F13"/>
-<connect gate="G$3" pin="PR9B" pad="G12"/>
-<connect gate="G$4" pin="PT10A" pad="D7"/>
-<connect gate="G$4" pin="PT10B" pad="E7"/>
-<connect gate="G$4" pin="PT11A" pad="C6"/>
-<connect gate="G$4" pin="PT11B" pad="A6"/>
-<connect gate="G$4" pin="PT12A" pad="D8"/>
-<connect gate="G$4" pin="PT13B" pad="E8"/>
-<connect gate="G$4" pin="PT14A" pad="C7"/>
-<connect gate="G$4" pin="PT14B" pad="B7"/>
-<connect gate="G$4" pin="PT15A" pad="A7"/>
-<connect gate="G$4" pin="PT15B" pad="A8"/>
-<connect gate="G$4" pin="PT16A" pad="B8"/>
-<connect gate="G$4" pin="PT16B" pad="E9"/>
-<connect gate="G$4" pin="PT17A" pad="C8"/>
-<connect gate="G$4" pin="PT17B" pad="C9"/>
-<connect gate="G$4" pin="PT18A" pad="A9"/>
-<connect gate="G$4" pin="PT18B" pad="D10"/>
-<connect gate="G$4" pin="PT19A" pad="B10"/>
-<connect gate="G$4" pin="PT19B" pad="A10"/>
-<connect gate="G$4" pin="PT20A" pad="D9"/>
-<connect gate="G$4" pin="PT21B" pad="B9"/>
-<connect gate="G$4" pin="PT22A" pad="D11"/>
-<connect gate="G$4" pin="PT22B" pad="B11"/>
-<connect gate="G$4" pin="PT23A" pad="A11"/>
-<connect gate="G$4" pin="PT23B" pad="C12"/>
-<connect gate="G$4" pin="PT24A" pad="B12"/>
-<connect gate="G$4" pin="PT24B" pad="A12"/>
-<connect gate="G$4" pin="PT25A" pad="E10"/>
-<connect gate="G$4" pin="PT25B" pad="C10"/>
-<connect gate="G$4" pin="PT26A" pad="C13"/>
-<connect gate="G$4" pin="PT26B" pad="A13"/>
-<connect gate="G$4" pin="PT27A" pad="E11"/>
-<connect gate="G$4" pin="PT27B" pad="F12"/>
-<connect gate="G$4" pin="PT28A" pad="D12"/>
-<connect gate="G$4" pin="PT29B" pad="A14"/>
-<connect gate="G$4" pin="PT2A" pad="C5"/>
-<connect gate="G$4" pin="PT2B" pad="F5"/>
-<connect gate="G$4" pin="PT30A" pad="C11"/>
-<connect gate="G$4" pin="PT30B" pad="B13"/>
-<connect gate="G$4" pin="PT31A" pad="B15"/>
-<connect gate="G$4" pin="PT31B" pad="A15"/>
-<connect gate="G$4" pin="PT3A" pad="B1"/>
-<connect gate="G$4" pin="PT3B" pad="A2"/>
-<connect gate="G$4" pin="PT4A" pad="B2"/>
-<connect gate="G$4" pin="PT5B" pad="B3"/>
-<connect gate="G$4" pin="PT6A" pad="A3"/>
-<connect gate="G$4" pin="PT6B" pad="D5"/>
-<connect gate="G$4" pin="PT7A" pad="D6"/>
-<connect gate="G$4" pin="PT7B" pad="E6"/>
-<connect gate="G$4" pin="PT8A" pad="B6"/>
-<connect gate="G$4" pin="PT8B" pad="A4"/>
-<connect gate="G$4" pin="PT9A" pad="B5"/>
-<connect gate="G$4" pin="PT9B" pad="A5"/>
-<connect gate="G$5" pin="CCLK" pad="C1"/>
-<connect gate="G$5" pin="CFG1" pad="B4"/>
-<connect gate="G$5" pin="DONE" pad="C3"/>
-<connect gate="G$5" pin="GNDP0" pad="H5"/>
-<connect gate="G$5" pin="GNDP1" pad="J13"/>
-<connect gate="G$5" pin="INITN" pad="P3"/>
-<connect gate="G$5" pin="PROGRAMN" pad="C2"/>
-<connect gate="G$5" pin="SLEEPN/TOE" pad="P4"/>
-<connect gate="G$5" pin="TCK" pad="B14"/>
-<connect gate="G$5" pin="TDI" pad="D14"/>
-<connect gate="G$5" pin="TDO" pad="E16"/>
-<connect gate="G$5" pin="TMS" pad="C14"/>
-<connect gate="G$5" pin="VCC" pad="A16"/>
-<connect gate="G$5" pin="VCCJ" pad="D16"/>
-<connect gate="G$5" pin="VCCP0" pad="H4"/>
-<connect gate="G$5" pin="VCCP1" pad="J12"/>
-</connects>
 <technologies>
 <technology name=""/>
 </technologies>

@@ -893,12 +893,6 @@
 <hole x="0" y="-29" drill="2.75"/>
 <circle x="0" y="-29" radius="1.55" width="3.1" layer="29"/>
 <circle x="0" y="-29" radius="1.55" width="3.1" layer="30"/>
-<hole x="-49" y="29" drill="2.75"/>
-<circle x="-49" y="29" radius="1.55" width="3.1" layer="29"/>
-<circle x="-49" y="29" radius="1.55" width="3.1" layer="30"/>
-<hole x="-49" y="-29" drill="2.75"/>
-<circle x="-49" y="-29" radius="1.55" width="3.1" layer="29"/>
-<circle x="-49" y="-29" radius="1.55" width="3.1" layer="30"/>
 <wire x1="3.5" y1="32.5" x2="3.5" y2="-32.5" width="0.127" layer="21"/>
 <wire x1="3.5" y1="-32.5" x2="-53" y2="-32.5" width="0.127" layer="21"/>
 <wire x1="-53" y1="-32.5" x2="-53" y2="32.5" width="0.127" layer="21"/>
